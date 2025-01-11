@@ -31,7 +31,7 @@ To clone the repository to your local machine, follow these steps:
 1. Open your terminal or command prompt.
 2. Run the following command:
    ```bash
-   git clone https://github.com/<your-github-username>/roy-digital-marketing.git
+   git clone https://github.com/ChaitanyaKanchi/Roy-Digital-Marketing/
    ```
 3. Navigate into the project directory:
    ```bash
